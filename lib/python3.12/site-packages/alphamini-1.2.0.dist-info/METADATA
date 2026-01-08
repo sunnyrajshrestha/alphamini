@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: alphamini
+Version: 1.2.0
+Summary: python sdk for ubtech alpha mini robot
+Home-page: UNKNOWN
+Author: logic.peng
+Author-email: logic.peng@ubtrobot.com
+License: GPLv3
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: click
+Requires-Dist: ifaddr
+Requires-Dist: protobuf
+Requires-Dist: websockets
+
+﻿# AlphaMini PythonSDK
+Documents: <br/>
+[Chinese](http://docs.ubtrobot.com/alphamini/python-sdk/index.html)
+<br/>
+[English](http://docs.ubtrobot.com/alphamini/python-sdk-en/index.html)
+

@@ -1,0 +1,11 @@
+[console_scripts]
+adb_disable = mini.tool.script.cli:cli_adb_disable
+adb_enable = mini.tool.script.cli:cli_adb_enable
+install_py_pkg = mini.tool.script.cli:cli_install_py_pkg
+list_py_pkg = mini.tool.script.cli:cli_list_py_pkg
+query_py_pkg = mini.tool.script.cli:cli_show_py_pkg
+run_cmd = mini.tool.script.cli:cli_run_cmd
+run_py_pkg = mini.tool.script.cli:cli_run_py_pkg
+setup_py_pkg = mini.tool.script.cli:cli_setup_py_pkg
+uninstall_py_pkg = mini.tool.script.cli:cli_uninstall_py_pkg
+
